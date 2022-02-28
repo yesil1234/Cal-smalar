@@ -1,0 +1,8 @@
+1-https://www.saucedemo.com/ Bu siteye git
+2- username gir         id - username
+3- password gir         id - password
+4-login butonuna bas    id - login-button
+5- sauce lab backpack  şu ürünü ad to card butonuna tıkla
+        id - add-to-card-sauce-lab-backpack
+6- sepete tıla   calss- shopping_cart_badge
+7- ürünün sepette oldugunu Assert ile onayla   class  - invertory_item_name
